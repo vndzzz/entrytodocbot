@@ -1,0 +1,6 @@
+{
+  "success": true,
+  "result": {
+    "CancelVisitResult": "\u003CCancelVisitResult Result=\u0022false\u0022 Code=\u0022-21\u0022\u003E\n\u003CErrorDescription\u003E\u0423\u043a\u0430\u0437\u0430\u043d\u043d\u043e\u0439 \u0437\u0430\u043f\u0438\u0441\u0438 \u043d\u0435 \u0441\u0443\u0449\u0435\u0441\u0442\u0432\u0443\u0435\u0442\u003C\/ErrorDescription\u003E\n\u003C\/CancelVisitResult\u003E"
+  }
+}
